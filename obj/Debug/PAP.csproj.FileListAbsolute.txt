@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\PAP\PAP\bin\Debug\PAP.exe.config
+C:\Users\Aluno\source\repos\PAP\PAP\bin\Debug\PAP.exe
+C:\Users\Aluno\source\repos\PAP\PAP\bin\Debug\PAP.pdb
+C:\Users\Aluno\source\repos\PAP\PAP\obj\Debug\PAP.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\PAP\PAP\obj\Debug\PAP.Form1.resources
+C:\Users\Aluno\source\repos\PAP\PAP\obj\Debug\PAP.Properties.Resources.resources
+C:\Users\Aluno\source\repos\PAP\PAP\obj\Debug\PAP.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\PAP\PAP\obj\Debug\PAP.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\PAP\PAP\obj\Debug\PAP.exe
+C:\Users\Aluno\source\repos\PAP\PAP\obj\Debug\PAP.pdb
